@@ -6,3 +6,4 @@ four line
 
 imie: Darek
 nazwisko: Kraw
+wiek: 42
